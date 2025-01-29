@@ -1,13 +1,12 @@
 // Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyAWc_p6H4MKH58b7IYMNr3ZrQ1xo3TSJYg",
-    authDomain: "my-app-e3635.firebaseapp.com",
-    databaseURL: "https://my-app-e3635-default-rtdb.firebaseio.com",
-    projectId: "my-app-e3635",
-    storageBucket: "my-app-e3635.appspot.com",
-    messagingSenderId: "20105586925",
-    appId: "1:20105586925:web:cb92562c14c943083084e4",
-    measurementId: "G-9JKN4CLKWC"
+  apiKey: "AIzaSyAl3_fbIVtCjQ39RXE9zWDWP8evtlVg0gs",
+  authDomain: "nxt-level-fitnesss.firebaseapp.com",
+  projectId: "nxt-level-fitnesss",
+  storageBucket: "nxt-level-fitnesss.firebasestorage.app",
+  messagingSenderId: "13739266505",
+  appId: "1:13739266505:web:8da5aaf176aa5ac86cd818",
+  measurementId: "G-NVCD811462"
   };
   
 // Initialize Firebase
